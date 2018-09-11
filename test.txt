@@ -1,1 +1,1 @@
-https://github.com/SSSupAD/adworkspace.git
+git@github.com:SSSupAD/adworkspace.git
